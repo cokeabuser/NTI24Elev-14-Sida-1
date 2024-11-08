@@ -1,0 +1,32 @@
+body{background-color: maroon;}
+h1 {
+color:GoldenRod;
+font-family:courier;
+}
+ul {
+font-size: 200%;
+}
+
+a:link {
+  color: LightSeaGreen;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: Fuchsia;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: Navy;
+  background-color: transparent;
+  text-decoration: wavy underline;
+}
+
+a:active {
+  color: Gold;
+  background-color: transparent;
+  text-decoration: underline;
+}

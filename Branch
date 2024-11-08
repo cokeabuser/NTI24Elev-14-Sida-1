@@ -1,0 +1,12 @@
+<!DOCKTYPE html>
+<html>
+<link rel="stylesheet" href="Style.css">
+<body>
+<ul>
+	<li><a href="https://cokeabuser.github.io/NTI24Elev-14-Sida-1/index">Main</a></li>
+	<li><a class="active" href="https://cokeabuser.github.io/NTI24Elev-14-Sida-1/Branch">Branch</a></li>
+	
+</ul>
+<h1> this, this is the page, this is page your loking for</h1>
+</body>
+</html>

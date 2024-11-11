@@ -51,9 +51,10 @@ li a {
   }
 
   .p1 {
+  border: 5px solid blue;
   margin-top: 100px;
   margin-right: 200px;
   margin-left: auto;
-  border: 5px solid blue;
+  
   
   }

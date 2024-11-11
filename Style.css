@@ -48,3 +48,10 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;*/ tar bort de vita strecken under orden.
+  }
+
+  p {
+  margin: 3px;
+  border: 1px;
+  color: blue;
+}

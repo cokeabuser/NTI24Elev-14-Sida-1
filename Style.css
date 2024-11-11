@@ -58,14 +58,23 @@ border-color: blue;
 margin-top: 100px;
 margin-right: 200px;
 margin-left: auto;
+width: fit-content;
 }
 
 .p2{
-border: 1px solid black;
+border: 1px solid navy;
 width: fit-content;
 marging-top: 120px;
 marging-left: auto;
 marging-right: auto;
+}
+
+.p3{
+border: 1px solid black;
+width: fit-content;
+margin-top: 150px;
+margin-left: auto;
+margin-right: auto;
 
   
 }

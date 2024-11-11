@@ -50,10 +50,10 @@ li a {
   text-decoration: none;*/ tar bort de vita strecken under orden.
   }
 
-  p {
+  .p1 {
   margin-top: 100px;
   margin-right: 200px;
+  margin-left: auto;
   border: 5px solid blue;
   
-  
-}
+  }

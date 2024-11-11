@@ -51,7 +51,8 @@ li a {
   }
 
   p {
-  margin: 3px;
-  border: 1px Blue;
+  margin-top: 100px;
+  margin-right: 200px;
+  border: 3px Blue;
   
 }
